@@ -38,7 +38,7 @@ func (m customNacosLogger) Error(args ...interface{}) {
 }
 
 func (m customNacosLogger) Debug(args ...interface{}) {
-	klog.Debug(args)
+	klog.Debug(args...)
 }
 
 func (m customNacosLogger) Infof(fmt string, args ...interface{}) {
