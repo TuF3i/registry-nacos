@@ -1,5 +1,5 @@
 NACOS_VERSION ?= 2.0.3
-TOOLS_SHELL="./hack/tools.sh"
+TOOLS_SHELL="../hack/tools.sh"
 
 prepare:
 	docker pull nacos/nacos-server:$(NACOS_VERSION)
