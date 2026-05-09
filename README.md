@@ -160,7 +160,7 @@ func main() {
     if err != nil {
 	    panic(err)	
     }
-    client, err := echo.NewClient("echo", client.WithResolver(resolver.NewNacosResolver(cli))
+    client, err := echo.NewClient("echo", client.WithResolver(resolver.NewNacosResolver(cli)))
     if err != nil {
         log.Fatal(err)
     }
