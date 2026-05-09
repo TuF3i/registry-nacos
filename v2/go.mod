@@ -6,7 +6,6 @@ require (
 	github.com/apache/thrift v0.16.0
 	github.com/cloudwego/kitex v0.14.1
 	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250715031028-a9907969c16f
-	github.com/nacos-group/nacos-sdk-go v1.1.6
 	github.com/nacos-group/nacos-sdk-go/v2 v2.3.2
 	github.com/stretchr/testify v1.10.0
 )
@@ -35,12 +34,12 @@ require (
 	github.com/aliyun/credentials-go v1.4.3 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/buger/jsonparser v1.1.1 // indirect
-	github.com/bytedance/gopkg v0.1.2 // indirect
-	github.com/bytedance/sonic v1.13.3 // indirect
-	github.com/bytedance/sonic/loader v0.2.4 // indirect
+	github.com/bytedance/gopkg v0.1.3 // indirect
+	github.com/bytedance/sonic v1.14.2 // indirect
+	github.com/bytedance/sonic/loader v0.4.0 // indirect
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
 	github.com/clbanning/mxj/v2 v2.5.5 // indirect
-	github.com/cloudwego/base64x v0.1.5 // indirect
+	github.com/cloudwego/base64x v0.1.6 // indirect
 	github.com/cloudwego/configmanager v0.2.3 // indirect
 	github.com/cloudwego/dynamicgo v0.6.4 // indirect
 	github.com/cloudwego/fastpb v0.0.5 // indirect
