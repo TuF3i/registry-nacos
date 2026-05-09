@@ -120,6 +120,8 @@ github.com/modern-go/reflect2 v1.0.2 h1:xBagoLtFs94CBntxluKeaWgTMpvLxC4ur3nMaC9G
 github.com/modern-go/reflect2 v1.0.2/go.mod h1:yWuevngMOJpCy52FWWMvUC8ws7m/LJsjYzDa0/r8luk=
 github.com/nacos-group/nacos-sdk-go v1.1.5 h1:bAs4gi4HIV9gW9/hO8bqwTfDxwVWpqR3NkoRmq+PJME=
 github.com/nacos-group/nacos-sdk-go v1.1.5/go.mod h1:cBv9wy5iObs7khOqov1ERFQrCuTR4ILpgaiaVMxEmGI=
+github.com/nacos-group/nacos-sdk-go v1.1.6 h1:zjn7CIoz0RxPHCalWc9kXOQx94oUFQl5J1rctbq2mYU=
+github.com/nacos-group/nacos-sdk-go v1.1.6/go.mod h1:cBv9wy5iObs7khOqov1ERFQrCuTR4ILpgaiaVMxEmGI=
 github.com/nishanths/predeclared v0.0.0-20200524104333-86fad755b4d3/go.mod h1:nt3d53pc1VYcphSCIaYAJtnPYnr3Zyn8fMq2wvPGPso=
 github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=

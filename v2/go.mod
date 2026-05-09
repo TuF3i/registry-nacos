@@ -6,6 +6,7 @@ require (
 	github.com/apache/thrift v0.16.0
 	github.com/cloudwego/kitex v0.14.1
 	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250715031028-a9907969c16f
+	github.com/nacos-group/nacos-sdk-go v1.1.6
 	github.com/nacos-group/nacos-sdk-go/v2 v2.3.2
 	github.com/stretchr/testify v1.10.0
 )
